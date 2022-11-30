@@ -1,4 +1,4 @@
-# Estatisicas
+# Estáticas
 
 ###
 
